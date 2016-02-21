@@ -1,0 +1,23 @@
+{
+	"preset": "google",
+	"validateIndentation": "\t",
+	"requireAlignedMultilineParams": 2,
+	"disallowSpacesInFunctionExpression": null,
+	"disallowSpacesInFunctionDeclaration": {
+    	"beforeOpeningRoundBrace": true
+	},
+	"disallowSpacesInAnonymousFunctionExpression": null,
+	"requireSpacesInAnonymousFunctionExpression": {
+		"beforeOpeningRoundBrace": true,
+		"beforeOpeningCurlyBrace": true,
+		"allExcept": ["shorthand"]
+	},
+	"requireSpacesInFunctionDeclaration": {
+		"beforeOpeningCurlyBrace": true
+	},
+	"requireSpacesInFunctionExpression": null,
+	"requireSpaceBeforeObjectValues": true,
+	"maximumLineLength": null,
+	"disallowKeywordsOnNewLine": null,
+	"requireCamelCaseOrUpperCaseIdentifiers": false
+}

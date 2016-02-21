@@ -1,0 +1,19 @@
+{
+  "name": "jscs-preset-leanbyte",
+  "version": "0.1.0",
+  "description": "Common JSCS configuration for LeanByte",
+  "main": "jscs.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leanbyte/jscs-preset.git"
+  },
+  "keywords": [
+    "lint",
+    "jscs"
+  ],
+  "author": "Raphael Luba <raphael@leanbyte.com>",
+  "license": "MIT"
+}
